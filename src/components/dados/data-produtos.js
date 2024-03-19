@@ -16,7 +16,7 @@ export const produtos = [
     preco: 25.0,
     descricao:
       "Uma maravilhosa lasanha com recheios variados como carne moída, frango, presunto e queijo, legumos e molho branco ou vermelho",
-    imagem: "assets/img/lasanha.jpg",
+    imagem: "Assets/img/lasanha.jpg",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const produtos = [
     preco: 24.25,
     descricao:
       "Uma massa recheada com diferentes ingredientes como queijo, carne, espinafre ou cogumelos",
-    imagem: "assets/img/ravioli.jpg",
+    imagem: "Assets/img/ravioli.jpg",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ export const produtos = [
     preco: 25.5,
     descricao:
       "Uma massa simples servida com diversos tipos de molhos como bolonhesa, carbonara, alfredo, pesto ou manteiga e sálvia",
-    imagem: "assets/img/capeletti.jpg",
+    imagem: "Assets/img/capeletti.jpg",
   },
   {
     id: 5,
