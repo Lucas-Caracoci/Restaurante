@@ -7,7 +7,7 @@ export const produtos = [
     preco: 20.0,
     descricao:
       "Um delicioso espaguete que pode ser combinado com diversos molhos, como bolonhesa, carbonara, alho e oleo e pesto",
-    imagem: "assets/img/espaguete.jpg",
+    imagem: "/public/Assets/img/espaguete.jpg",
   },
   {
     id: 2,
